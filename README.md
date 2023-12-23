@@ -1,1 +1,1 @@
-# HotelFinder
+# Hotel Finder
